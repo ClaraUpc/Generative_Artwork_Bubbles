@@ -44,8 +44,8 @@ std::vector<Bubble> bubbles;
 int numBubbles = 80;
 
 // Colores del degradado
-ofColor topColor(255, 150, 80); // naranja suave
-ofColor bottomColor(80, 0, 120); // violeta profundo
+ofColor topColor(255, 150, 80); // naranja
+ofColor bottomColor(80, 0, 120); // violeta
 
 
 //--------------------------------------------------------------
