@@ -49,7 +49,7 @@ ofColor bottomColor(30, 60, 200); // azul brillante
 
 //--------------------------------------------------------------
 void ofApp::setup() {
-	ofSetWindowShape(800, 600);
+	
 	ofSetFrameRate(60);
 	ofSetCircleResolution(80);
 
